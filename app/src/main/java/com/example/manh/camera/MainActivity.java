@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnCapture;
     ImageView imgPicture;
 
+    //Hello, I want to test the second
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
